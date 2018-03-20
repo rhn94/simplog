@@ -1,0 +1,23 @@
+{
+  "name": "simplog",
+  "version": "0.0.1",
+  "description": "A basic easy to use logging utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhn94/simplog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhn94/simplog/issues"
+  },
+  "homepage": "https://github.com/rhn94/simplog#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "moment": "^2.21.0"
+  }
+}
